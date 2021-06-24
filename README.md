@@ -1,2 +1,6 @@
-# Numpy
-NumPy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
+NUMPY
+The NumPy library is the core library for scientific computing in 
+Python. It provides a high-performance multidimensional array 
+object, and tools for working with these arrays. 
+>>> import numpy as np
+Use the following import convention:
