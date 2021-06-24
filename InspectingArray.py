@@ -43,5 +43,6 @@ print(a.astype(float))
 #           [[11. 12. 13. ]
 #            [14. 15. 16. ]
 #            [17. 18. 19. ]]]
+# Converted the whole int array into float array
 
 # Thank you
